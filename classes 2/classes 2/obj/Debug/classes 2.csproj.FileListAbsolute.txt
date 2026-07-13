@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Desktop\programação de app\classes 2\classes 2\bin\Debug\classes 2.exe.config
+C:\Users\gabri\OneDrive\Desktop\programação de app\classes 2\classes 2\bin\Debug\classes 2.exe
+C:\Users\gabri\OneDrive\Desktop\programação de app\classes 2\classes 2\bin\Debug\classes 2.pdb
+C:\Users\gabri\OneDrive\Desktop\programação de app\classes 2\classes 2\obj\Debug\classes 2.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\programação de app\classes 2\classes 2\obj\Debug\classes 2.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\programação de app\classes 2\classes 2\obj\Debug\classes 2.exe
+C:\Users\gabri\OneDrive\Desktop\programação de app\classes 2\classes 2\obj\Debug\classes 2.pdb
